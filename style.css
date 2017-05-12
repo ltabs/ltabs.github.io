@@ -1,0 +1,12 @@
+@font-face {
+	font-family: bpmono;
+	src:url(BPmono.ttf);
+}
+
+body {
+	font-family: bpmono;
+}
+
+h1 {
+	text-align: center;
+}
